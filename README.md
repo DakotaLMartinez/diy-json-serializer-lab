@@ -26,3 +26,5 @@ which is provided.
 **Note:** The test suite makes use of `selenium-webdriver` to test the
 AJAX-enabled pages. You will need to have Firefox installed for the
 tests to pass.
+
+If you're using VirtualBox for this lab, you'll want to try running `bundle update poltergeist` before running your tests.
